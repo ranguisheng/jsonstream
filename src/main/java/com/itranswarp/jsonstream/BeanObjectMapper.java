@@ -16,7 +16,7 @@ import org.apache.commons.logging.LogFactory;
 import com.itranswarp.jsonstream.validator.Validator;
 
 /**
- * Convert JSON object {@code Map<String, Object>} to JavaBean object, and recursively if necessary.
+ * Convert  JSON object {@code Map<String, Object>} to JavaBean object, and recursively if necessary.
  * 
  * @author Michael Liao
  */
